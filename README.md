@@ -1,6 +1,6 @@
 ### **About me** 🌠
 
-Hello, my name is Gabriel and I'm 19 years old and I'm currently studying Software Engineering at Uni-FACEF. Currently I have focused on improving my techniques as a team manager and back-end languages.
+Hello, my name is Gabriel and I'm 19 years old. I'm currently studying Software Engineering at Uni-FACEF. I have focused on improving my techniques as a team manager and back-end languages.
 
 ### **Languages**
 <div style="display: inline_block"><br>
